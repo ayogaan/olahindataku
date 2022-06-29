@@ -12,13 +12,14 @@
       							</span>
 							</a>
 						</div>
-						<!-- Primary Navbar items -->
-						<div class="hidden md:flex items-center space-x-1">
+						<!-- Primary Navbar items 
+						<div class="hidden md:flex items-center space-x-1 hidden">
 							<a href="" class="py-4 px-2 text-green-500 border-b-4 border-green-500 font-semibold ">Home</a>
 							<a href="" class="py-4 px-2 text-gray-500 font-semibold hover:text-green-500 transition duration-300">Services</a>
 							<a href="" class="py-4 px-2 text-gray-500 font-semibold hover:text-green-500 transition duration-300">About</a>
 							<a href="" class="py-4 px-2 text-gray-500 font-semibold hover:text-green-500 transition duration-300">Contact Us</a>
 						</div>
+						-->
 					</div>
 					<!-- Secondary Navbar items -->
 					
@@ -40,7 +41,7 @@
 					</div>
 				</div>
 			</div>
-			<!-- mobile menu -->
+			<!-- mobile menu 
 			<div class="hidden mobile-menu transition duration-300 ease-in-out">
 				<ul class="">
 					<li class="active"><a href="index.html" class="block text-sm px-2 py-4 text-white bg-green-500 font-semibold">Home</a></li>
@@ -49,7 +50,7 @@
 					<li><a href="#contact" class="block text-sm px-2 py-4 hover:bg-green-500 transition duration-300">Contact Us</a></li>
 				</ul>
 			</div>
-		
+		-->
 		</nav>
 </template>
 
