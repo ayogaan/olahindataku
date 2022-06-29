@@ -9,7 +9,7 @@
 
 
 
-<h2 class="mt-1 mt-8 text-2xl font-extrabold tracking-wide uppercase lg:text-3xl" style="margin-top:100px">
+<h2 class="mt-1 mt-8 px-4 text-2xl font-extrabold tracking-wide uppercase lg:text-3xl" style="margin-top:100px">
         Customer yang puas
       </h2>
 
@@ -48,7 +48,7 @@
 </div>
 
 
-   <section class="relative overflow-hidden py-8 rounded-lg shadow-lg pb-80 lg:pb-0 bg-white" style="margin-top:100px; margin-bottom:100px">
+   <section class=" mx-4 relative overflow-hidden py-8 rounded-lg shadow-lg pb-80 lg:pb-0 bg-white" style="margin-top:100px; margin-bottom:100px">
   <div class="p-8 mt-8 ml-auto text-center lg:w-2/3 sm:p-12">
     <p class="text-sm font-semibold tracking-widest uppercase">
       Run with the pack
@@ -61,7 +61,7 @@
 
     <a
       class="  inline-block w-full py-4 mt-8 text-sm font-bold tracking-widest text-white uppercase bg-btn "
-      href=""
+      href="https://wa.me/message/24Z7QEZNHKWLA1z1"
     >
       Hubungi Kami
     </a>

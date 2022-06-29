@@ -1,6 +1,6 @@
 <template>
 <!-- component -->
-<div class="py-16 bg-white overflow-hidden container mx-auto rounded-md  shadow-lg">
+<div class="py-16 mx-4 bg-white overflow-hidden container mx-auto rounded-md  shadow-lg">
     <div class="container m-auto px-6 space-y-8 text-gray-500 md:px-12">
         <div>
             <span class="text-gray-600 text-lg font-semibold">Plugin yang kami miliki</span>

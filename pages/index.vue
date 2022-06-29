@@ -2,7 +2,9 @@
 <div class="bg-head" >
   <Navbar/>
   <Hero/>
-  <Model/>
+  <div class="p-4" id="model">
+  <Model class="mx-4" />
+  </div>
   <Pricing class="mt-5"/>
   <Tutorial/>
  
@@ -12,6 +14,13 @@
 <style scoped>
 .bg-head{
   background-color: #f9eccd;
+}
+
+
+</style>
+<style>
+html {
+  scroll-behavior: smooth;
 }
 </style>
 

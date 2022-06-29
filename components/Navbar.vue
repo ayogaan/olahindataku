@@ -23,7 +23,7 @@
 					</div>
 					<!-- Secondary Navbar items -->
 					
-					<!-- Mobile menu button -->
+					<!-- Mobile menu button 
 					<div class="md:hidden flex items-center ">
 						<button @click="testFunction" class="outline-none mobile-menu-button">
 						<svg class=" w-6 h-6 text-gray-500 hover:text-green-500 "
@@ -39,6 +39,7 @@
 						</svg>
 					</button>
 					</div>
+					-->
 				</div>
 			</div>
 			<!-- mobile menu 

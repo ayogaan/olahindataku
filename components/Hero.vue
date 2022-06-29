@@ -15,7 +15,7 @@
                     Mudah Murah terpercaya
                 </p>
 
-                <a href="#" class="bg-btn text-base font-semibold text-white py-3 px-8  hover:shadow-lg hover:opacity-80 transition duration-300 ease-in-out mb-5">Layanan Kami</a>
+                <a href="#model" class="bg-btn text-base font-semibold text-white py-3 px-8  hover:shadow-lg hover:opacity-80 transition duration-300 ease-in-out mb-5">Layanan Kami</a>
 
             </div>
 
